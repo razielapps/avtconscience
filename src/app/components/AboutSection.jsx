@@ -2,7 +2,7 @@
 import React, { useTransition, useState } from "react";
 import Image from "next/image";
 import TabButton from "./TabButton";
-
+import aboutimg from "/images/about-image.png"
 const TAB_DATA = [
   {
     title: "TECHNOLOGIES",
@@ -112,7 +112,7 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-4 items-center py-4 px-4 sm:py-6 sm:px-6 xl:gap-8 xl:px-10">
-        <Image className="imgabt" src="/images/about-image.png" width={500} height={500} alt='logo'/>
+        <Image className="imgabt" src={aboutimg} width={500} height={500} alt='logo'/>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
  <p class="text-base lg:text-lg">
