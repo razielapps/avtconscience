@@ -69,6 +69,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             As an autodidactic versatile technologist, I leverage the latest and most advanced technologies to bring ideas to life, ensuring superior quality, usability, security, and client satisfaction. With a strong work ethic and a commitment to excellence, I deliver projects efficiently while maintaining the highest standards of quality.
+          
           </p>
           <div>
             <Link

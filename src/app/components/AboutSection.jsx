@@ -116,35 +116,36 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
  <p class="text-base lg:text-lg">
-    Technology has always been more than just a career for me—it&apos;s a passion, a journey, and a way to bring ideas to life. 
-    From my earliest days of coding to building solutions that empower businesses, my work represents the dedication, resilience, 
-    and innovation that drive me forward.
+    Technology has always been more than just a career for me—it’s a passion, a journey, and a way to bring ideas to life. 
+    From my earliest days of coding to crafting digital solutions, my work represents my dedication, resilience, 
+    and the determination to keep going despite the obstacles I’ve faced along the way.
 </p>
 <br/>
 
 <p class="text-base lg:text-lg">
-    My path into tech wasn&apos;t conventional. It was shaped by perseverance, overcoming setbacks, and an insatiable curiosity for solving problems. 
-    I didn&apos;t step into this field for quick success—I embraced it for the challenge, creativity, and the meaningful impact technology can have on the world.
+    My path into tech wasn’t conventional. It has been shaped by setbacks, struggles, and an unwavering curiosity to solve problems. 
+    I didn’t choose this field for quick success—I embraced it for the challenge, creativity, and the deep belief in the meaningful impact 
+    technology can have, not just on businesses, but on life itself.
 </p>
 <br/>
 
 <p class="text-base lg:text-lg">
-    As an <strong>autodidactic versatile technologist</strong>, I take immense pride in delivering top-quality digital solutions with a strong commitment to efficiency and precision. 
-    Whether it&apos;s <strong>Web Development, API Development, Data Sourcing & Processing, Digital Content Creation, or Search Engine Optimization</strong>, 
-    I ensure each project is completed with speed, excellence, and attention to detail.
+    As an <strong>autodidactic versatile technologist</strong>, I’m proud to say that I’ve learned from every challenge and failure, 
+    continuously working to improve my craft. Whether it’s <strong>Web Development, API Development, Data Sourcing & Processing, Digital Content Creation, or Search Engine Optimization</strong>, 
+    I ensure that each project is approached with the commitment to deliver quality, but also the understanding that growth comes with learning from every experience.
 </p>
 <br/>
 
 <p class="text-base lg:text-lg">
-    Beyond development, I believe in guiding and empowering others. That&apos;s why I offer coaching and consultation services—whether you&apos;re transitioning into tech, 
-    planning your next career move, or striving to achieve ambitious goals, I&apos;m here to support you every step of the way.
+    Beyond development, I believe in the power of sharing knowledge and uplifting others. That’s why I offer coaching and consultation services—whether you’re transitioning into tech, 
+    planning your next career move, or striving to achieve ambitious goals, I’m here to support you, just as I continue to support myself through my journey.
 </p>
 <br/>
 
 <p class="text-base lg:text-lg">
     With a deep love for coding, problem-solving, and innovation, I leverage modern technologies to transform ideas into reality. 
-    Prioritizing usability, security, and performance, I approach every project with a mindset of continuous growth and excellence. 
-    Let&apos;s build something amazing together!
+    Prioritizing usability, security, and performance, I approach every project not just with a mindset of excellence, but with a continuous drive to better myself and help others along the way. 
+    Let’s build something meaningful together!
 </p>
      <br/>
           <div className="flex flex-row justify-start mt-8">
