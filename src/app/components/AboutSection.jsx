@@ -94,6 +94,9 @@ I appreciated how they turned my vague idea into a fully functional and optimize
          <li>CS50 Introduction to Computer Science</li>
           <li>CS50 Web Development with Python & Javascript</li>
            <li>Full-Stack Web Development with React & Django REST Framework</li>
+            <li>Full-Stack Web Development with Nextjs & Django REST Framework</li>
+            <li>Mastering MEAN Stack</li>
+            <li>Mastering MERN Stack</li>
       </ul>
     ),
   },
