@@ -54,33 +54,21 @@ const TAB_DATA = [
     ),
   },
   {
-    title: "Education",
-    id: "education",
+    title: "Projects",
+    id: "projects",
     content: (
       <ul className="list-disc pl-2">
-        <li>
-          ⭐⭐⭐⭐⭐
-          <br/> I worked with this team on a custom web development project, and they exceeded my expectations. The delivery was on time, the site&apos;s functionality is flawless, and their communication throughout the process was exceptional. Highly recommend! -Sarah
-</li>
-        <li>⭐⭐⭐⭐ <br/>
-The coaching session was exactly what I needed to transition into tech. They helped me map out my career path and gave practical advice on improving my skills. I feel so much more confident about my next steps! -David</li>
-<li>⭐⭐⭐⭐⭐
-<br/>
-Their SEO services were a game changer for my business. My website&apos;s traffic has doubled within a few months, and I&apos;m now getting more leads than ever. Great work from a dedicated team! -Priya
-</li>
-<li>⭐⭐⭐⭐⭐
-<br/>
-This team is simply amazing. Their passion for tech really shows in their work. They created a beautiful and user-friendly website for my brand and provided excellent support afterward. I couldn&apos;t be happier! -Sofia</li>
-<li>⭐⭐⭐⭐⭐
-<br/>
-Fast, reliable, and highly skilled! They built a custom API for my business that works seamlessly with my existing systems. The whole process was smooth, and I&apos;m thrilled with the result! -Micheal</li>
-<li>⭐⭐⭐⭐
-<br/>
-The consultation session gave me clarity on the tech space and helped me decide on a strategy for my startup. The team is knowledgeable and patient, addressing all my questions. Highly professional! -Jacob</li>
-<li>⭐⭐⭐⭐⭐
-<br/>
-I appreciated how they turned my vague idea into a fully functional and optimized app. The attention to detail and focus on security and performance were impressive. I&apos;ll definitely work with them again for future projects. -Elena</li>
-
+        <li><a href="https://e-town.netlify.app/">REAL ESTATE</a></li>
+        <li><a href="https://land-real-estate.netlify.app/">REAL ESTATE 2</a></li>
+        <li><a href="https://teaser-real-estate.netlify.app/">REAL ESTATE 3</a></li>
+        <li><a href="https://beauty-blogx.netlify.app/">BEAUTY BLOG</a></li>
+        <li><a href="https://music-x.netlify.app/">MUSIC SITE</a></li>
+        <li><a href="https://fab-x.netlify.app/">INDUSTRIAL COMPANY</a></li>
+        <li><a href="https://laundry-s.netlify.app/">LAUNDRY SERVICE SITE</a></li>
+        <li><a href="https://m-home.netlify.app/">RELOCATION SERVICES SITE</a></li>
+        <li><a href="https://edoorphan.netlify.app/">NON PROFIT</a></li>
+        <li><a href="https://drgc.netlify.app/">CHURCH WEBSITE</a></li>
+        <li><a href="https://reg-closer.netlify.app/">SCHOOL ATTENDANCE CALCULATOR</a></li>
       </ul>
     ),
   },
@@ -168,6 +156,13 @@ const AboutSection = () => {
               {" "}
               Certifications{" "}
             </TabButton>
+
+            <TabButton 
+            	selectTab={() => handleTabChange("projects")} active={tab === "projects"}>
+				{" "}
+				Projects{" "}
+            </TabButton>
+            
            
           </div>
           <div className="mt-8">
