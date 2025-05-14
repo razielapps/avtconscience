@@ -58,17 +58,28 @@ const TAB_DATA = [
     id: "projects",
     content: (
       <ul className="list-disc pl-2">
-        <li><a href="https://e-town.netlify.app/">REAL ESTATE</a></li>
-        <li><a href="https://land-real-estate.netlify.app/">REAL ESTATE 2</a></li>
-        <li><a href="https://teaser-real-estate.netlify.app/">REAL ESTATE 3</a></li>
-        <li><a href="https://beauty-blogx.netlify.app/">BEAUTY BLOG</a></li>
-        <li><a href="https://music-x.netlify.app/">MUSIC SITE</a></li>
-        <li><a href="https://fab-x.netlify.app/">INDUSTRIAL COMPANY</a></li>
-        <li><a href="https://laundry-s.netlify.app/">LAUNDRY SERVICE SITE</a></li>
-        <li><a href="https://m-home.netlify.app/">RELOCATION SERVICES SITE</a></li>
-        <li><a href="https://edoorphan.netlify.app/">NON PROFIT</a></li>
+        <li><a href="https://lenslight1.netlify.app/">Lenslight</a></li>
         <li><a href="https://drgc.netlify.app/">CHURCH WEBSITE</a></li>
-        <li><a href="https://reg-closer.netlify.app/">SCHOOL ATTENDANCE CALCULATOR</a></li>
+        <li><a href="https://urbanedge1.netlify.app/">Urban Edge</a></li>
+        <li><a href="https://beauty-blogx.netlify.app/">BEAUTY</a></li>
+        <li><a href="https://edoorphan.netlify.app/">NON PROFIT</a></li>
+        <li><a href="https://pixelforge1.netlify.app/">Pixelforge</a></li>
+        <li><a href="https://e-town.netlify.app/">REAL ESTATE</a></li>
+        <li><a href="https://ecopack09.netlify.app/">Ecopack Start Up</a></li>
+        <li><a href="https://laundry-s.netlify.app/">LAUNDRY S</a></li>
+        <li><a href="https://serenemind1.netlify.app/">Serene Mind</a></li>
+        <li><a href="https://reg-closer.netlify.app/">SCHOOL A</a></li>
+        <li><a href="https://m-home.netlify.app/">RELOCATION S</a></li>
+        <li><a href="https://fab-x.netlify.app/">INDUSTRIAL CO</a></li>
+        <li><a href="https://nexusdigital1.netlify.app/">Nexus Digital</a></li>
+        <li><a href="https://wordsmith1.netlify.app/">Wordsmith Copywriter</a></li>
+        <li><a href="https://greenfarm1.netlify.app/">Green Varley Farm</a></li>
+        <li><a href="https://music-x.netlify.app/">MUSIC SITE</a></li>
+        <li><a href="https://aitutorx1.netlify.app/">Aitutorx Platform</a></li>
+        <li><a href="https://land-real-estate.netlify.app/">REAL ESTATE</a></li>
+        <li><a href="https://teaser-real-estate.netlify.app/">REAL ESTATE</a></li>
+        <li><a href="https://eliteshine.netlify.app/">EliteShine Car Wash</a></li>
+        <li><a href="https://laundry-s.netlify.app/">LAUNDRY S</a></li>
       </ul>
     ),
   },
